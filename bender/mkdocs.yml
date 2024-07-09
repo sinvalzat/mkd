@@ -2,4 +2,5 @@ site_name: Ostap_Bender
 nav:
   - Home: index.md
   - About: about.md
+  - Test: test.md
 theme: readthedocs
