@@ -4,3 +4,5 @@ nav:
   - About: about.md
   - Test: test.md
   - Four: four.md
+theme:
+  name: material
